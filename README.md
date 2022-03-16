@@ -1,4 +1,4 @@
-#Sayı Tahmin Oyunu  
+# Sayı Tahmin Oyunu  
 
 ## 1. Seviye 
 - Random modülü kullanılarak bilgisayar 1 ile 20 arasında bir tam sayı üretir. 
